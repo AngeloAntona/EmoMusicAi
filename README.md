@@ -1,3 +1,5 @@
+[Link](https://docs.google.com/presentation/d/1TIjLfIQRWnOo_db9KlDTbCgGYDd1QKpsDYbLAfw0cA4/edit?usp=sharing) to the slides of the presentation.
+
 # Table of Contents
 
 1. [Introduction](#introduction)  
